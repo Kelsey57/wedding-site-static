@@ -7,8 +7,7 @@ a {
 }
 
 #sidebar {
-  border-top: 1px groove #404040;
-  border-left: 1px groove #404040;
+  border: 2px groove #404040;
   height: 65%;
   width: 200px;
   float: right;
