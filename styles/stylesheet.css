@@ -7,13 +7,15 @@ a {
 }
 
 #sidebar {
-  border-top: 1px solid #99CC33;
-	border-left: 1px solid #99CC33;
-	height: 300px;
-	width: 200px;
-	float: right;
-	margin-right: 5px;
-	padding: 5px 0 0 5px;
+  border-top: 1px groove #404040;
+  border-left: 1px groove #404040;
+  height: 65%;
+  width: 200px;
+  float: right;
+  margin-right: 5px;
+  padding: 5px 0 0 5px;
+  
+
 }
 
 #wrapper {
